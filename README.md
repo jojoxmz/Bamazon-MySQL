@@ -6,7 +6,7 @@
 <h2>App Functionality</h2>
 <ul>
 <li>
-  <p>Using MySQL, I have created the database and added the inventory to the database. <img src="./image-for-customer-side/MySQL" alt="screenshot of MySQL" width="300px"><p>
+  <p>Using MySQL, I have created the database and added the inventory to the database. <img src="./Assets/image-for-customer-side/MySQL" alt="screenshot of MySQL" width="300px"><p>
 </li>
 
 
