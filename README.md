@@ -45,19 +45,19 @@
             If they choose "No Thank You!", then connection will end immediately.
           </li>
 
-          <br>
+
           <img src="././Assets/image-for-customer-side/1.JPG" alt="screenshot of app" width="600px" height="100px">
           <img src="././Assets/image-for-customer-side/1-No.JPG" alt="screenshot of app" width="600px" height="100px">
-          <br><br>
+
 
           <li>
             A list of all available items for sale will display. The items will also display it's ids, names. and prices of the products for sale.
           </li>
 
-          <br>
+
           <img src="././Assets/image-for-customer-side/2.JPG" alt="screenshot of app" width="600px" height="800px">
           <img src="././Assets/image-for-customer-side/2-1.JPG" alt="screenshot of app" width="600px" height="800px">
-          <br><br>
+
 
         </ul>
       <li>
@@ -70,10 +70,10 @@
             The second message should ask how many units of the product they would like to buy.
           </li>
 
-          <br>
+
           <img src="././Assets/image-for-customer-side/3-2.JPG" alt="screenshot of app" width="600px">
           <img src="././Assets/image-for-customer-side/3-3.JPG" alt="screenshot of app" width="600px">
-          <br><br>
+
 
         </ul>
       </li>
@@ -89,9 +89,11 @@
           <li>
             Once the update goes through, the total cost for the purchase will appear. </li>
 
-          <br>
+          
           <img src="././Assets/image-for-customer-side/3.JPG" alt="screenshot of app" width="600px">
           <img src="././Assets/image-for-customer-side/3-1.JPG" alt="screenshot of app" width="600px">
+          <img src="././Assets/image-for-customer-side/3-1.JPG" alt="screenshot of app" width="600px">
+
 
         </ul>
       </li>
