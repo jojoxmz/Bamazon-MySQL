@@ -83,9 +83,9 @@
           <li>
             Once the update goes through, the total cost for the purchase will appear. </li>
           <br>
+          <img src="././Assets/image-for-customer-side/4-1.JPG" alt="screenshot of app" width="600px">
           <img src="././Assets/image-for-customer-side/3.JPG" alt="screenshot of app" width="600px">
           <img src="././Assets/image-for-customer-side/3-1.JPG" alt="screenshot of app" width="600px">
-          <img src="././Assets/image-for-customer-side/4-1.JPG" alt="screenshot of app" width="600px">
         </ul>
       </li>
     </ol>
